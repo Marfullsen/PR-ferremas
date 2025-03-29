@@ -8,13 +8,13 @@
 
 Sitio web de una ferretería ficticia para la asignatura de Integración de Plataformas.
 
+> 🚧 **Disclaimer**
+>
+> El sitio web fue diseñado con fines educativos para una asignatura del instituto. Su contenido es ficticio y solo se utiliza para fines de enseñanza.
+
 <img src="./docs/img/banner.png" alt="banner" width="750">
 
 </div>
-
-## **Disclaimer**
-
-El sitio web fue diseñado con fines educativos para una asignatura del instituto. Su contenido es ficticio y solo se utiliza para fines de enseñanza.
 
 ## Instalación
 
